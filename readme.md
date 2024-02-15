@@ -1,6 +1,6 @@
 # Finite element method
 
-Algorithm solves differential equation with bounduary conditions using finite element method. It finds elastic deformation of metal for given function with provided by user calculations precision . It was developed at AGH UST for Differential Equations subject. 
+Algorithm solves differential equation with boundary conditions using finite element method. It finds elastic deformation of metal for given function with provided by user calculations precision . It was developed at AGH UST for Differential Equations subject. 
 
 ![Image Name](equation.png)
 
