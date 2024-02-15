@@ -15,3 +15,6 @@ Algorithm solves differential equation with bounduary conditions using finite el
  - enter expected precision
  
 Results will show up in separated window and pdf file will be saved in project directory.
+
+# Author
+ - Kamil Rudny [krudny](https://github.com/krudny)
